@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeClause_project_Landing-Page/static/css/main.a64db6da.css",
+    "main.js": "/CodeClause_project_Landing-Page/static/js/main.551d601b.js",
+    "index.html": "/CodeClause_project_Landing-Page/index.html",
+    "main.a64db6da.css.map": "/CodeClause_project_Landing-Page/static/css/main.a64db6da.css.map",
+    "main.551d601b.js.map": "/CodeClause_project_Landing-Page/static/js/main.551d601b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a64db6da.css",
+    "static/js/main.551d601b.js"
+  ]
+}
